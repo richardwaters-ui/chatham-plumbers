@@ -1,0 +1,21 @@
+# Robots.txt for Chatham Plumbing Services
+User-agent: *
+Allow: /
+
+# AI Crawlers (for AEO - AI Engine Optimization)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Sitemaps
+Sitemap: https://chathamplumbers.co.uk/sitemap.xml
+Sitemap: https://chathamplumbers.co.uk/image-sitemap.xml
+Sitemap: https://chathamplumbers.co.uk/news-sitemap.xml
